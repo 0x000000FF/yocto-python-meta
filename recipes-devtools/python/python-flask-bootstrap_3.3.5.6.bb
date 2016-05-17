@@ -2,7 +2,7 @@ DESCRIPTION = "An extension that includes Bootstrap in your project, without any
 HOMEPAGE = "https://pypi.python.org/pypi/Flask"
 SECTION = "devel/python"
 LICENSE = "BSD"
-LIC_FILES_CHKSUM = "file://LICENSE;md5=79aa8b7bc4f781210d6b5c06d6424cb0"
+LIC_FILES_CHKSUM = "file://LICENSE;md5=d41d8cd98f00b204e9800998ecf8427e"
 
 PR = "r0"
 SRCNAME = "Flask-Bootstrap"

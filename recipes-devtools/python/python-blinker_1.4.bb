@@ -9,8 +9,8 @@ SRCNAME = "blinker"
 
 SRC_URI = "https://pypi.python.org/packages/source/b/${SRCNAME}/${SRCNAME}-${PV}.tar.gz"
 
-SRC_URI[md5sum] = "378670fe456957eb3c27ddaef60b2b24"
-SRC_URI[sha256sum] = "4c83829ff83d408b5e1d4995472265411d2c414112298f2eb4b359d9e4563373"
+SRC_URI[md5sum] = "8b3722381f83c2813c52de3016b68d33"
+SRC_URI[sha256sum] = "471aee25f3992bd325afa3772f1063dbdbbca947a041b8b89466dc00d606f8b6"
 
 S = "${WORKDIR}/${SRCNAME}-${PV}"
 

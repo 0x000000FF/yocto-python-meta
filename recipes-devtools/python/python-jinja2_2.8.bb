@@ -9,8 +9,8 @@ SRCNAME = "Jinja2"
 
 SRC_URI = "https://pypi.python.org/packages/source/J/${SRCNAME}/${SRCNAME}-${PV}.tar.gz"
 
-SRC_URI[md5sum] = "b9dffd2f3b43d673802fe857c8445b1a"
-SRC_URI[sha256sum] = "2e24ac5d004db5714976a04ac0e80c6df6e47e98c354cb2c0d82f8879d4f8fdb"
+SRC_URI[md5sum] = "edb51693fe22c53cee5403775c71a99e"
+SRC_URI[sha256sum] = "bc1ff2ff88dbfacefde4ddde471d1417d3b304e8df103a7a9437d47269201bf4"
 
 S = "${WORKDIR}/${SRCNAME}-${PV}"
 

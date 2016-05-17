@@ -9,8 +9,8 @@ SRCNAME = "Werkzeug"
 
 SRC_URI = "https://pypi.python.org/packages/source/W/${SRCNAME}/${SRCNAME}-${PV}.tar.gz"
 
-SRC_URI[md5sum] = "66a488e0ac50a9ec326fe020b3083450"
-SRC_URI[sha256sum] = "9d2771e4c89be127bc4bac056ab7ceaf0e0064c723d6b6e195739c3af4fd5c1d"
+SRC_URI[md5sum] = "6938a541fafd1a1ae2f6b9b88588eef2"
+SRC_URI[sha256sum] = "ffdf10bd1fa565b8233380cb77a304cd36fd55c73023e91d4b803c96bc11d46f"
 
 S = "${WORKDIR}/${SRCNAME}-${PV}"
 

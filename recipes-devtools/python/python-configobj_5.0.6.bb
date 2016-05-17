@@ -2,7 +2,7 @@ DESCRIPTION = "Config file reading, writing and validation."
 HOMEPAGE = "https://pypi.python.org/pypi/configobj"
 SECTION = "devel/python"
 LICENSE = "BSD"
-LIC_FILES_CHKSUM = "file://LICENSE;md5=79aa8b7bc4f781210d6b5c06d6424cb0"
+LIC_FILES_CHKSUM = "file://LICENSE;md5=d41d8cd98f00b204e9800998ecf8427e"
 
 PR = "r0"
 SRCNAME = "configobj"
